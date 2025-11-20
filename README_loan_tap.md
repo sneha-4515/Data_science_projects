@@ -20,9 +20,8 @@ Select the best model based on classification metrics
 
 📁 Project Structure
 
-LoanTap/
-│── data/                 # Raw and cleaned datasets
 https://drive.google.com/file/d/1Ecm6J3mum2k9zGLJyCgrqetWkWIRfKsF/view?usp=sharing
+
 link for downloading the dataset
 │── notebooks/            # Jupyter/Colab notebooks
 
